@@ -29,3 +29,5 @@ header nav a,.btn,button,.filters input,.filters select,footer a{min-height:44px
  form{display:flex;flex-direction:column;gap:8px}form input{width:100%;font-size:16px;min-height:44px}
  .asof{font-size:13px}
 }
+.wl{background:#fdf8ec;border:2px solid #c9a24a;border-radius:12px;padding:20px;margin:16px 0}.wl h2{margin:0 0 6px}.wl ul{margin:8px 0 12px;padding-left:20px}.wl form{display:flex;gap:8px;flex-wrap:wrap}.wl input[type=email]{flex:1;min-width:200px;padding:9px 12px;border:1px solid #cdd5e0;border-radius:8px}.wl .wlmsg{margin:8px 0 0;font-size:14px;color:#5b6777}.wl .wlmsg:empty{display:none}.wljump{display:inline-flex;align-items:center;min-height:44px;margin-top:10px;color:#f3d98b;font-weight:600;text-decoration:underline;text-underline-offset:3px}.wljump:hover{color:#fff}#waitlist{scroll-margin-top:16px}.wlcta{display:flex;align-items:center;gap:12px;flex-wrap:wrap;justify-content:space-between}
+@media (max-width:640px){.wl{padding:14px}.wl form{flex-direction:column}.wl input[type=email]{min-width:0}.wl .btn{justify-content:center}.wlcta .btn{width:100%;justify-content:center}}
