@@ -9,6 +9,8 @@
 - [Trade training grants 2026](https://grantlore.com/trade-training-grants/): verified scholarships, employer and nonprofit programs
 - [Foundations funding trades & workforce training](https://grantlore.com/foundations-funding-trades-training/)
 - [Methodology & data sources](https://grantlore.com/methodology.html)
+- [Pricing](https://grantlore.com/pricing.html): free browsing; Pro $29/mo and Consultant $79/mo plans coming (waitlist)
+- [AI grant helper preview](https://grantlore.com/ai-grant-helper/): planned feature that matches a mission to foundations and drafts a letter of inquiry the nonprofit edits and submits itself
 - [About](https://grantlore.com/about.html)
 
 ## Notes
