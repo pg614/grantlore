@@ -1,6 +1,6 @@
 # Grantlore
 
-> Free directory of 6,521 U.S. private foundations built from IRS Form 990-PF e-filings (tax years mostly 2024-2025; site built 2026-10-29). Each profile lists total assets, grants paid, the itemized grant list, typical (median) grant, geographic focus, and application instructions or "preselected only" status from Part XV, with a link to the source filing on ProPublica.
+> Free directory of 6,521 U.S. private foundations built from IRS Form 990-PF e-filings (tax years mostly 2024-2025; site built 2026-10-30). Each profile lists total assets, grants paid, the itemized grant list, typical (median) grant, geographic focus, and application instructions or "preselected only" status from Part XV, with a link to the source filing on ProPublica.
 
 ## Key pages
 - [Search all foundations](https://grantlore.com/): filter by state, cause keyword, typical grant size, application status
